@@ -30,8 +30,7 @@ The static website files were uploaded to an Amazon S3 bucket and configured for
 
 You can access the deployed static website here: http://riel-st40-2026-784.s3-website.eu-north-1.amazonaws.com
 
-**Website URL:**
-*Paste your S3 or CloudFront URL here*
+
 
 ## Project Structure
 
